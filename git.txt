@@ -1,3 +1,5 @@
 welcome to github
 here i will learn how to use this 
 and how git is useful as an open source
+learning git by naveen reddy.
+through sharpener's website
